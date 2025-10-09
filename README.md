@@ -6,3 +6,4 @@ A creative collection of 30 front-end projects built using HTML, CSS, and JavaSc
    (https://effulgent-palmier-5a4494.netlify.app/)
 2) Auto Text Effect Animation (https://chipper-sunshine-449ec4.netlify.app/)
 3) Mini Calender (https://golden-wisp-a60af2.netlify.app/)
+4) Button Ripple Effect (https://subtle-florentine-ad7842.netlify.app/)
